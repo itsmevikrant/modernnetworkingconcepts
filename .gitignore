@@ -1,0 +1,7 @@
+.DS_Store
+*.swp
+*.tar
+*.o
+grader/
+initial_results
+
