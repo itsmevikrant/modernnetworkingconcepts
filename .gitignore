@@ -4,4 +4,4 @@
 *.o
 grader/
 initial_results
-
+_DS_Store
