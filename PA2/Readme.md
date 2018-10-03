@@ -10,7 +10,9 @@ In this programming assignment, you will be writing the sending and receiving tr
 
 **The routines you will write**
 
-The procedures you will write are for the sending entity (A) and the receiving entity (B). Only unidirectional transfer of data (from A to B) is required. Of course, the B side will have to send packets to A to acknowledge receipt of data. Your routines are to be implemented in the form of the procedures described below. These procedures will be called by (and will call) procedures which simulate a network environment. The overall structure of the environment is shown in img 1.
+The procedures you will write are for the sending entity (A) and the receiving entity (B). Only unidirectional transfer of data (from A to B) is required. Of course, the B side will have to send packets to A to acknowledge receipt of data. Your routines are to be implemented in the form of the procedures described below. These procedures will be called by (and will call) procedures which simulate a network environment. The overall structure of the environment is shown in 
+
+![img 1](./img1.png)
 
 The unit of data passed between the upper layers and your protocols is a message, which is declared as:
 
